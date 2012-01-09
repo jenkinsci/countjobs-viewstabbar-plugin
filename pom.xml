@@ -11,6 +11,13 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
+
+  <scm>
+    <connection>scm:git:ssh://github.com/jenkinsci/countjobs-viewstabbar-plugin.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/countjobs-viewstabbar-plugin.git</developerConnection>
+    <url>https://github.com/jenkinsci/countjobs-viewstabbar-plugin</url>
+  </scm>
+  
   <!-- get every artifact through maven.glassfish.org, which proxies all the artifacts that we need -->
   <repositories>
     <repository>
