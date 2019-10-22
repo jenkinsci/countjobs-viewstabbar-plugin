@@ -11,7 +11,7 @@
   <version>1.0.1-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
-  <url>https://wiki.jenkins-ci.org/display/JENKINS/Countjobs+Viewstabbar</url>
+  <url>https://github.com/jenkinsci/countjobs-viewstabbar-plugin</url>
 
   <scm>
     <connection>scm:git:ssh://github.com/jenkinsci/countjobs-viewstabbar-plugin.git</connection>
