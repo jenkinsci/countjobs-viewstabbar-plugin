@@ -3,8 +3,15 @@
   <parent>
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
-    <version>1.428</version><!-- which version of Jenkins is this plugin built against? -->
+    <version>3.51</version>
+    <relativePath />
   </parent>
+
+  <properties>
+    <jenkins.version>2.176.4</jenkins.version><!-- which version of Jenkins is this plugin built against? -->
+    <java.level>8</java.level>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
 
   <groupId>ws.albors</groupId>
   <artifactId>countjobs-viewstabbar</artifactId>
