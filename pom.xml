@@ -15,7 +15,7 @@
 
   <groupId>ws.albors</groupId>
   <artifactId>countjobs-viewstabbar</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
   <url>https://github.com/jenkinsci/countjobs-viewstabbar-plugin</url>
@@ -24,7 +24,7 @@
     <connection>scm:git:ssh://github.com/jenkinsci/countjobs-viewstabbar-plugin.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/jenkinsci/countjobs-viewstabbar-plugin.git</developerConnection>
     <url>https://github.com/jenkinsci/countjobs-viewstabbar-plugin</url>
-    <tag>countjobs-viewstabbar-1.0.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <developers>
