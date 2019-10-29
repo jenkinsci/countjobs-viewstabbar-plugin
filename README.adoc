@@ -29,6 +29,13 @@ and feel.
 Changelog
 ---------
 
+Version 1.0.1
+~~~~~~~~~~~~~
+
+* More recent jenkins-core version
+* Doc migrated to github
+* Build on ci.jenkins.io
+
 Version 1.0.0
 ~~~~~~~~~~~~~
 
